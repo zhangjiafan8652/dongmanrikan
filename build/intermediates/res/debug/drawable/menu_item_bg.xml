@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@drawable/menu_arr_select" android:state_enabled="true"></item>
+    <item android:drawable="@drawable/menu_arr_normal" android:state_enabled="false"></item>
+
+</selector><!-- From: file:/J:/adt-bundle-windows-x86_64-20140702/workspace/dongman/res/drawable/menu_item_bg.xml -->

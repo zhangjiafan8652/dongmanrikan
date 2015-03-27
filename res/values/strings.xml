@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">动漫日刊</string>
+    <string name="menu_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="text">张珈凡，男，\n android攻城诗兼动漫爱好者 \n 个人爱好:吃饭睡觉看动漫+敲代码。 \n 个人动漫:数码暴龙，四驱兄弟，犬夜叉，柯南，火影忍者，海贼王，刀剑神域，死神，全职猎人等等排名不分先后.</string>
+    <string name="title">My Description</string>
+	 <string name="context_menu">Context menu</string>
+	  <string name="youke">游客账号密码\n 123456789 \n 123456789</string>
+	 
+</resources>
